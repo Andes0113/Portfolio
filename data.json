@@ -1,0 +1,82 @@
+{
+    "projects":[
+        {
+        "id" : "0",
+        "project_name": "",
+        "description": "",
+        "tech": [
+            "Tech 1", "tech 2"
+        ],
+        "live_link": "",
+        "github_link": "",
+        "image_urls": [
+            "Unit1", "Unit12"
+        ]
+    },
+    {
+        "id" : "1",
+        "project_name": "",
+        "description": "",
+        "tech": [
+            "Tech 1", "tech 2"
+        ],
+        "live_link": "",
+        "github_link": "",
+        "image_urls": [
+            "Unit2", "Unit22"
+        ]
+    },
+    {
+        "id" : "2",
+        "project_name": "",
+        "description": "",
+        "tech": [
+            "Tech 1", "tech 2"
+        ],
+        "live_link": "",
+        "github_link": "",
+        "image_urls": [
+            "Unit3", "Unit32"
+        ]
+    },
+    {
+        "id" : "3",
+        "project_name": "",
+        "description": "",
+        "tech": [
+            "Tech 1", "tech 2"
+        ],
+        "live_link": "",
+        "github_link": "",
+        "image_urls": [
+            "Unit4", "Unit42"
+        ]
+    },
+    {
+        "id" : "4",
+        "project_name": "",
+        "description": "",
+        "tech": [
+            "Tech 1", "tech 2"
+        ],
+        "live_link": "",
+        "github_link": "",
+        "image_urls": [
+            "Unit5", "Unit52"
+        ]
+    },
+    {
+        "id" : "5",
+        "project_name": "",
+        "description": "",
+        "tech": [
+            "Tech 1", "tech 2"
+        ],
+        "live_link": "",
+        "github_link": "",
+        "image_urls": [
+            "Unit6", "Unit62"
+        ]
+    }
+]
+}
