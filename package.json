@@ -2,7 +2,7 @@
   "name": "unit-6-project-static-node-js-and-express-site-andes0113",
   "version": "1.0.0",
   "description": "",
-  "main": "scripts.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
