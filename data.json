@@ -2,10 +2,10 @@
     "projects":[
         {
         "id" : "0",
-        "project_name": "",
+        "project_name": "Quote Generator",
         "description": "",
         "tech": [
-            "Tech 1", "tech 2"
+            "HTML", "CSS", "JS"
         ],
         "live_link": "",
         "github_link": "",
@@ -15,10 +15,10 @@
     },
     {
         "id" : "1",
-        "project_name": "",
+        "project_name": "Database",
         "description": "",
         "tech": [
-            "Tech 1", "tech 2"
+            "HTML", "JS", "DOM Scripting"
         ],
         "live_link": "",
         "github_link": "",
@@ -28,10 +28,10 @@
     },
     {
         "id" : "2",
-        "project_name": "",
+        "project_name": "Full Stack Configuration",
         "description": "",
         "tech": [
-            "Tech 1", "tech 2"
+            "HTML", "JS", "JQuery", "HTML Forms"
         ],
         "live_link": "",
         "github_link": "",
@@ -41,10 +41,10 @@
     },
     {
         "id" : "3",
-        "project_name": "",
+        "project_name": "Phrase Hunter",
         "description": "",
         "tech": [
-            "Tech 1", "tech 2"
+            "HTML", "JS", "JQuery"
         ],
         "live_link": "",
         "github_link": "",
@@ -54,10 +54,10 @@
     },
     {
         "id" : "4",
-        "project_name": "",
+        "project_name": "Employee Directory",
         "description": "",
         "tech": [
-            "Tech 1", "tech 2"
+            "HTML", "JS", "Asynchronous Programming"
         ],
         "live_link": "",
         "github_link": "",
@@ -67,7 +67,7 @@
     },
     {
         "id" : "5",
-        "project_name": "",
+        "project_name": "Portfolio",
         "description": "",
         "tech": [
             "Tech 1", "tech 2"
